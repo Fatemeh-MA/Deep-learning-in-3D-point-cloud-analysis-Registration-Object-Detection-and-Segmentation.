@@ -56,11 +56,15 @@ A survey on Point Cloud based papers
 - A 3D Convolutional Neural Network Towards Real-Time Amodal 3D Object Detection, 2018.[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593837).
 - Complex-YOLO: Real-time 3D Object Detection on Point Clouds, 2018.[[Paper]](https://arxiv.org/abs/1803.06199), [[Code_Pytorch]](https://github.com/AI-liu/Complex-YOLO)⭐.:cupcake:
 - RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement, 2018.[[Paper]](https://arxiv.org/abs/1811.03818).
-
-, 2020.[[Paper]](), [[Code_Pytorch]]()
-
-, 2020.[[Paper]](), [[Code_Pytorch]]()
-
-, 2020.[[Paper]](), [[Code_Pytorch]]()
+- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving, 2019.[[Paper]](https://arxiv.org/abs/1812.07179), [[Code]](https://github.com/mileyan/pseudo_lidar)
+- PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, 2019.[[Paper]](https://arxiv.org/abs/1812.04244), [[Code_Pytorch]](https://github.com/sshaoshuai/PointRCNN ).:cupcake:
+- PointPillars: Fast Encoders for Object Detection from Point Clouds, 2019.[[Paper]](https://arxiv.org/abs/1812.05784), [[Code_Pytorch]](https://github.com/nutonomy/second.pytorch).:cupcake:
+-  Deep Hough Voting for 3D Object Detection in Point Clouds, 2019.[[Paper]](https://arxiv.org/abs/1904.09664v1), [[Code_Pytorch]]( https://github.com/facebookresearch/votenet)
+-  MVX-Net: Multimodal VoxelNet for 3D Object Detection, 2019.[[Paper]](https://arxiv.org/abs/1904.01649).
+-  FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds, 2019[[Paper]](https://arxiv.org/abs/1903.10750), [[Code]](https://github.com/LordLiang/FVNet)
+-  Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds, 2019[[Paper]](https://arxiv.org/abs/1904.07537), [[Code_Pytorch]](https://github.com/AI-liu/Complex-YOLO)⭐.
+-  TANet: Robust 3D Object Detection from Point Clouds with Triple Attention, 2020.[[Paper]](https://arxiv.org/pdf/1912.05163.pdf), [[Code]](https://github.com/happinesslz/TANet).
+-  MLCVNet: Multi-Level Context VoteNet for 3D Object Detection., 2020.[[Paper]](https://arxiv.org/pdf/2004.05679.pdf), [[Code]](https://github.com/NUAAXQ/MLCVNet).
+-  ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes, 2020.[[Paper]](https://arxiv.org/abs/2001.10692).
 
 , 2020.[[Paper]](), [[Code_Pytorch]]()
