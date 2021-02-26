@@ -50,7 +50,12 @@ A survey on Point Cloud based papers
 
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection, 2018.[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf), [[Code_Tensorflow]](https://github.com/tsinghua-rll/VoxelNet-tensorflow)⭐
 
-, 2018.[[Paper]](), [[Code_Pytorch]]()
+- Deep Continuous Fusion for Multi-Sensor 3D Object Detection, 2018.[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf).
+- YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud, 2018.[[Paper]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Ali_YOLO3D_End-to-end_real-time_3D_Oriented_Object_Bounding_Box_Detection_from_ECCVW_2018_paper.pdf)
+- Joint 3D Proposal Generation and Object Detection from View Aggregation, 2018.[[Paper]](https://ieeexplore.ieee.org/document/8594049).
+- A 3D Convolutional Neural Network Towards Real-Time Amodal 3D Object Detection, 2018.[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593837).
+- Complex-YOLO: Real-time 3D Object Detection on Point Clouds, 2018.[[Paper]](https://arxiv.org/abs/1803.06199), [[Code_Pytorch]](https://github.com/AI-liu/Complex-YOLO)⭐.:cupcake:
+- RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement, 2018.[[Paper]](https://arxiv.org/abs/1811.03818).
 
 , 2020.[[Paper]](), [[Code_Pytorch]]()
 
