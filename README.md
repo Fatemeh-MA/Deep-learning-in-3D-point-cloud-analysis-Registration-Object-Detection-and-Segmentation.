@@ -67,4 +67,18 @@ A survey on Point Cloud based papers
 -  MLCVNet: Multi-Level Context VoteNet for 3D Object Detection., 2020.[[Paper]](https://arxiv.org/pdf/2004.05679.pdf), [[Code]](https://github.com/NUAAXQ/MLCVNet).
 -  ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes, 2020.[[Paper]](https://arxiv.org/abs/2001.10692).
 
+
+**Deep Learning for 3D Point Clouds: A Survey, 2020.[[Paper]](https://arxiv.org/pdf/1912.12033.pdf).**
+## Solving occlusion probloems
+- ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans, 2018.[[Paper]](https://arxiv.org/pdf/1712.10215.pdf), [[Code]](https://github.com/angeladai/ScanComplete) [taking an incomplete 3D scan of a scene as input and predicting a complete 3D model along with per-voxel semantic labels]
+
+## Segmentation
+- Weakly Supervised Semantic Point Cloud Segmentation: Towards 10× Fewer Labels, 2020.[[Paper]](https://arxiv.org/pdf/2004.04091.pdf), [[Code]](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)
+- Just Go with the Flow: Self-Supervised Scene Flow Estimation, 2020.[[Paper]](https://arxiv.org/pdf/1912.00497.pdf), [[Code]](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)
+
+
+## Data Annotation 
+Point Cloud Annotation Methods for 3D Deep Learning, 2019.[[Paper]](https://ieeexplore.ieee.org/document/9047730), [[Code_Pytorch]]()
+
+, 2019.[[Paper]](), [[Code_Pytorch]]()
 , 2020.[[Paper]](), [[Code_Pytorch]]()
