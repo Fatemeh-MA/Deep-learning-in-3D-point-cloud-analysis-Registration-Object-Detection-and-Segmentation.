@@ -71,14 +71,20 @@ A survey on Point Cloud based papers
 **Deep Learning for 3D Point Clouds: A Survey, 2020.[[Paper]](https://arxiv.org/pdf/1912.12033.pdf).**
 ## Solving occlusion probloems
 - ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans, 2018.[[Paper]](https://arxiv.org/pdf/1712.10215.pdf), [[Code]](https://github.com/angeladai/ScanComplete) [taking an incomplete 3D scan of a scene as input and predicting a complete 3D model along with per-voxel semantic labels]
-
+- ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes, 2017.[[Paper]](https://arxiv.org/pdf/1702.04405.pdf), [[Code_Pytorch]](https://github.com/LiuShihHung/GICN)
 ## Segmentation
-- Weakly Supervised Semantic Point Cloud Segmentation: Towards 10× Fewer Labels, 2020.[[Paper]](https://arxiv.org/pdf/2004.04091.pdf), [[Code]](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)
+- Unstructured point cloud semantic labeling using deep segmentation networks,2017.[[Paper]](http://blesaux.free.fr/papers/17-EG3DOR-SnapNet-BoulchLeSauxAudebert-compressed.pdf), [[Code_Pytorch]](https://github.com/aboulch/snapnet)
+- Weakly Supervised Semantic Point Cloud Segmentation: Towards 10× Fewer Labels, 2020.[[Paper]](https://arxiv.org/pdf/2004.04091.pdf), [[Code]](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)⭐
 - Just Go with the Flow: Self-Supervised Scene Flow Estimation, 2020.[[Paper]](https://arxiv.org/pdf/1912.00497.pdf), [[Code]](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)
 
 
-## Data Annotation 
-Point Cloud Annotation Methods for 3D Deep Learning, 2019.[[Paper]](https://ieeexplore.ieee.org/document/9047730), [[Code_Pytorch]]()
 
+## Data Annotation 
+- Point Cloud Annotation Methods for 3D Deep Learning, 2019.[[Paper]](https://ieeexplore.ieee.org/document/9047730), [[Code_Pytorch]]()
+- PointAtMe: Efficient 3D Point Cloud Labeling in Virtual Reality, 2020.[[Paper]](https://ieeexplore.ieee.org/document/8814115), [[Code]](https://github.com/florianwirth/PointAtMe)⭐⭐(Virtual Reality)
+- SUSTech POINTS: A Portable 3D Point Cloud Interactive Annotation Platform System, 2020.[[Paper]](https://ieeexplore.ieee.org/document/9304562), [[Code]](https://github.com/naurril/SUSTechPOINTS)
+- Multi-Label Point Cloud Annotation by Selection of Sparse Control Points, 2017.[[Paper]](https://ieeexplore.ieee.org/document/8374583), [[Code]](https://github.com/RMonica/rviz_cloud_annotation)⭐(ROS-Based)
+- , 2019.[[Paper]](), [[Code_Pytorch]]()
+- , 2019.[[Paper]](), [[Code_Pytorch]]()
 , 2019.[[Paper]](), [[Code_Pytorch]]()
-, 2020.[[Paper]](), [[Code_Pytorch]]()
+, 2020.[[Paper]](), [[Code]](https://github.com/naurril/SUSTechPOINTS)
