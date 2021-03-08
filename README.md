@@ -84,7 +84,7 @@ A survey on Point Cloud based papers
 - PointAtMe: Efficient 3D Point Cloud Labeling in Virtual Reality, 2020.[[Paper]](https://ieeexplore.ieee.org/document/8814115), [[Code]](https://github.com/florianwirth/PointAtMe)⭐⭐(Virtual Reality)
 - SUSTech POINTS: A Portable 3D Point Cloud Interactive Annotation Platform System, 2020.[[Paper]](https://ieeexplore.ieee.org/document/9304562), [[Code]](https://github.com/naurril/SUSTechPOINTS)
 - Multi-Label Point Cloud Annotation by Selection of Sparse Control Points, 2017.[[Paper]](https://ieeexplore.ieee.org/document/8374583), [[Code]](https://github.com/RMonica/rviz_cloud_annotation)⭐(ROS-Based)
-- , 2019.[[Paper]](), [[Code_Pytorch]]()
+- Leveraging Pre-Trained 3D Object Detection Models For Fast Ground Truth Generation, 2018.[[Paper]](https://arxiv.org/abs/1807.06072).:cupcake:
 - , 2019.[[Paper]](), [[Code_Pytorch]]()
 , 2019.[[Paper]](), [[Code_Pytorch]]()
 , 2020.[[Paper]](), [[Code]](https://github.com/naurril/SUSTechPOINTS)
